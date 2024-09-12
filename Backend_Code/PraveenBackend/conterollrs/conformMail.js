@@ -31,4 +31,6 @@ const conformMail=async (req,res)=>{
             VerificationLink:verificationLink
         });
 }
+
+//hiuyt
 module.exports={conformMail}
